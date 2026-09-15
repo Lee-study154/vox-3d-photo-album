@@ -1,0 +1,70 @@
+{
+  "album": "vox-archive",
+  "source_policy": "Original PNG files copied unchanged; no image generation or editing.",
+  "source_directory": "/Users/liyuhan/Desktop/手绘线稿+VOX/成品",
+  "pages": [
+    {
+      "page": 1,
+      "file": "fan-breeze-jp-en-v7.png",
+      "width": 1024,
+      "height": 1280,
+      "sha256": "717fb0b11e7377877d4327e0d583701b4463c34d7d35c1886253fb0a99a24ed0"
+    },
+    {
+      "page": 2,
+      "file": "film-in-hand-jp-en-v2.png",
+      "width": 1152,
+      "height": 1536,
+      "sha256": "c5b1e5811d6731119c5ef4fbb70010b87b3d9142ee5f0aeb7b9e18f8c10f6fae"
+    },
+    {
+      "page": 3,
+      "file": "food-breakfast-api-v2.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "dd984f2133e0865d246c447021aa29d28066dc1845d76a77789347a3afa1d839"
+    },
+    {
+      "page": 4,
+      "file": "movement-cn-en-v7.png",
+      "width": 1024,
+      "height": 1280,
+      "sha256": "5e6719498de9b948d88e6e175334e10538fe63a04f6ef54fc14d333ed55228ca"
+    },
+    {
+      "page": 5,
+      "file": "roof-framed-typography-v7.png",
+      "width": 1152,
+      "height": 1536,
+      "sha256": "57f44fe4e510b650a4efbb1f14d9388f7a133f2ce521fea62afa2448544836ba"
+    },
+    {
+      "page": 6,
+      "file": "station-industrial-archive-v2.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "c8a5cd84be72908513ccb821fbb8730f1e42d4fd4f9fcbfdb4a60c12fe60d5ce"
+    },
+    {
+      "page": 7,
+      "file": "subway-depth-fix-v9.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "9eba08e0c9bd98efd12d344b0fde29e17a5f5cf3774915d333c3188454077737"
+    },
+    {
+      "page": 8,
+      "file": "utility-pole-editorial-v3.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "e8f003e01ded75d3901d05d8c3cdcaece3ee2bd959b541b5d35541440b6abc18"
+    },
+    {
+      "page": 9,
+      "file": "window-masks-jp-en-v2.png",
+      "width": 1152,
+      "height": 1536,
+      "sha256": "07a399c1c2ccb7fb1340286276a756237dac490ac4b5af97f0b7d54fd0cd05cd"
+    }
+  ]
+}
