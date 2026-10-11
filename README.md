@@ -1,5 +1,11 @@
 # VOX 手绘线稿 3D 相册
 
+## 在线观看
+
+点击这里打开公开版 3D 相册：
+
+[打开 VOX 手绘线稿 3D 相册](https://lee-study154.github.io/vox-3d-photo-album/)
+
 This local 3D photo album displays the supplied VOX PNGs through the
 [`quick_flipbook`](https://github.com/bandinopla/quick_flipbook) page-turn engine.
 The original files are copied byte for byte to `public/books/vox/` and are not edited.
